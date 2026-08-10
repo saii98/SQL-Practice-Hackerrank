@@ -13,6 +13,7 @@ This folder contains my solutions to the **Basic Select** problems from HackerRa
 - ORDER BY
 - LIMIT
 - Basic string conditions
+- Agrregate Functions
 
 
 
